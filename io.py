@@ -1,0 +1,1 @@
+# tips pemrograman python
